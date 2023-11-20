@@ -1,8 +1,8 @@
 <h1 <p align="center"><b>Ekplisit Intents Dan Implisit Intents</b></p></h1> 
 
-**Nama: Rini Ariza**
+**Nama: Muhammad Reza Maulana**
 
-**NIM: 312210337**
+**NIM: 312210303**
 
 **Kelas: TI.22.A3**
 
