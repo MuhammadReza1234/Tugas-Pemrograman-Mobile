@@ -31,7 +31,7 @@
     <application
         android:allowBackup="true"
         android:icon="@drawable/reza"
-        android:label="@string/app_name"
+        android:label="racing mode"
         android:roundIcon="@drawable/reza"
         android:supportsRtl="true"
         android:theme="@style/Theme.HelloToast">
@@ -464,7 +464,7 @@ public class MainToast extends AppCompatActivity {
         android:orientation="vertical">
 
         <ImageView
-            android:id="@+id/mdinalayubi_logo_transparant_2"
+            android:id="@+id/reza"
             android:layout_width="350dp"
             android:layout_height="wrap_content"
             android:adjustViewBounds="true"
@@ -876,6 +876,10 @@ public class MainToast extends AppCompatActivity {
 ### Hasil Output
 
 ---
+
+![logo reza](https://github.com/MuhammadReza1234/Tugas-Pemrograman-Mobile/assets/115516607/b08f04ff-ad4d-461e-abe5-b35031d04b0f)
+
+![logo](https://github.com/MuhammadReza1234/Tugas-Pemrograman-Mobile/assets/115516607/794bb983-a2ab-4f3d-8826-8a3991934085)
 
 ![Screenshot (454)](https://github.com/MuhammadReza1234/Tugas-Pemrograman-Mobile/assets/115516607/11b036ac-0b22-48d0-a903-ea66cdc04d7b)
 
